@@ -1,625 +1,653 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="I218.61854.schedulesdirect.org" tvg-name="GOLF CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/982436045001240576/_hR6LA3b_400x400.jpg" group-title="DEPORTES",GOLF CHANNEL
-http://bulltv.us:2999/live/darlin/darlin/12.ts
-#EXTINF:-1 tvg-id="" tvg-name="A3S" tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" group-title="Entretenimiento",A3S
-http://bulltv.us:2999/live/darlin/darlin/13.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="Noticias",ADN 40
-http://bulltv.us:2999/live/darlin/darlin/14.ts
-#EXTINF:-1 tvg-id="I103.59724.schedulesdirect.org" tvg-name="AFIZZIONADOS" tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP.jpg" group-title="DEPORTES",AFIZZIONADOS
-http://bulltv.us:2999/live/darlin/darlin/15.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="Entretenimiento",AMC
-http://bulltv.us:2999/live/darlin/darlin/16.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tv.maocal.com/images/animal.png" group-title="CULTURA",ANIMAL PLANET
-http://bulltv.us:2999/live/darlin/darlin/17.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="Entretenimiento",ANTENA 3
-http://bulltv.us:2999/live/darlin/darlin/18.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="Entretenimiento",AXN
-http://bulltv.us:2999/live/darlin/darlin/19.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://pbs.twimg.com/profile_images/1334801686309838850/zH4L2hgp.jpg" group-title="Entretenimiento",AXN WHITE
-http://bulltv.us:2999/live/darlin/darlin/20.ts
-#EXTINF:-1 tvg-id="" tvg-name="AYM SPORTS" tvg-logo="https://img4.wikia.nocookie.net/__cb20130608195911/logopedia/images/5/52/165104_149063901812135_6685373_n.jpg" group-title="DEPORTES",AYM SPORTS
-http://bulltv.us:2999/live/darlin/darlin/21.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINEMA PREMIUM",AZ CINEMA
-http://bulltv.us:2999/live/darlin/darlin/22.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ CORAZON" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="Mexico",AZ CORAZON
-http://bulltv.us:2999/live/darlin/darlin/23.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="Mexico",AZ MUNDO
-http://bulltv.us:2999/live/darlin/darlin/24.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 1" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg" group-title="Mexico",AZTECA 1
-http://bulltv.us:2999/live/darlin/darlin/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="Mexico",AZTECA 7
-http://bulltv.us:2999/live/darlin/darlin/26.ts
-#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="Musica",BANDAMAX
-http://bulltv.us:2999/live/darlin/darlin/27.ts
-#EXTINF:-1 tvg-id="boomerang.cl" tvg-name="BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="NIÑOS",BOOMERANG
-http://bulltv.us:2999/live/darlin/darlin/30.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ONCE" tvg-logo="https://hobbitmemes.com/wp-content/uploads/2020/10/1-24.png" group-title="Mexico",CANAL ONCE
-http://bulltv.us:2999/live/darlin/darlin/31.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg" group-title="Mexico",CANAL 5
-http://bulltv.us:2999/live/darlin/darlin/32.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="Mexico",CANAL DE LAS ESTRELLAS
-http://bulltv.us:2999/live/darlin/darlin/33.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL" tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="Noticias",CARACOL
-http://bulltv.us:2999/live/darlin/darlin/34.ts
-#EXTINF:-1 tvg-id="I113.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="NIÑOS",CARTOON NETWORK
-http://bulltv.us:2999/live/darlin/darlin/35.ts
-#EXTINF:-1 tvg-id="I124.16435.schedulesdirect.org" tvg-name="CINECANAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="CINEMA PREMIUM",CINECANAL
-http://bulltv.us:2999/live/darlin/darlin/36.ts
-#EXTINF:-1 tvg-id="I121.15296.schedulesdirect.org" tvg-name="CINELATINO" tvg-logo="https://lasemanadelsur.com/wp-content/uploads/2018/10/cine_02-web.jpg" group-title="CINEMA PREMIUM",CINELATINO
-http://bulltv.us:2999/live/darlin/darlin/37.ts
-#EXTINF:-1 tvg-id="I134.16794.schedulesdirect.org" tvg-name="CINEMAX" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg" group-title="CINEMA PREMIUM",CINEMAX
-http://bulltv.us:2999/live/darlin/darlin/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN ESPAÑOL" tvg-logo="https://www.entornointeligente.com/wp-content/uploads/2020/08/2_aviones_rusos_hacen_intercepcion_a_C2_80_C2_98inseguraa_C2_80_C2_99_de_bombardero_b_52_de_la_fuerza_aerea_de_ee_uu_.png" group-title="Noticias",CNN ESPAÑOL
-http://bulltv.us:2999/live/darlin/darlin/39.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://storybaker.co/wp-content/uploads/2019/05/ccentral.jpg" group-title="Entretenimiento",COMEDY CENTRAL
-http://bulltv.us:2999/live/darlin/darlin/40.ts
-#EXTINF:-1 tvg-id="I168.16288.schedulesdirect.org" tvg-name="DE PELICULA" tvg-logo="https://pbs.twimg.com/profile_images/958147557150089216/Jiah4faM_400x400.jpg" group-title="CINEMA PREMIUM",DE PELICULA
-http://bulltv.us:2999/live/darlin/darlin/41.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="CULTURA",DISCOVERY CHANNEL
-http://bulltv.us:2999/live/darlin/darlin/42.ts
-#EXTINF:-1 tvg-id="I359.111055.schedulesdirect.org" tvg-name="HGTV" tvg-logo="http://bulltv.us/logoscanales/HGTV.png" group-title="CULTURA",HGTV
-http://bulltv.us:2999/live/darlin/darlin/43.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY EN ESPAÑOL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="CULTURA",DISCOVERY EN ESPAÑOL
-http://bulltv.us:2999/live/darlin/darlin/44.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://pbs.twimg.com/profile_images/694917796208070660/yLTulGF__400x400.png" group-title="CULTURA",DISCOVERY FAMILIA
-http://bulltv.us:2999/live/darlin/darlin/45.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="CULTURA",DISCOVERY H&H
-http://bulltv.us:2999/live/darlin/darlin/46.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://pbs.twimg.com/profile_images/890679019758342144/t1ifF4LF_400x400.jpg" group-title="CULTURA",DISCOVERY ID
-http://bulltv.us:2999/live/darlin/darlin/47.ts
-#EXTINF:-1 tvg-id="I873.89909.schedulesdirect.org" tvg-name="DISCOVERY KIDS " tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="NIÑOS",DISCOVERY KIDS 
-http://bulltv.us:2999/live/darlin/darlin/48.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="CULTURA",DISCOVERY THEATER
-http://bulltv.us:2999/live/darlin/darlin/50.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="CULTURA",DISCOVERY TLC
-http://bulltv.us:2999/live/darlin/darlin/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="Entretenimiento",DISCOVERY TURBO
-http://bulltv.us:2999/live/darlin/darlin/52.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="CULTURA",DISCOVERY WORLD
-http://bulltv.us:2999/live/darlin/darlin/53.ts
-#EXTINF:-1 tvg-id="I190.19234.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/1280px-disney-channel-logosvg_gyjq.png" group-title="NIÑOS",DISNEY CHANNEL
-http://51.222.25.50:2999/h7apwKAtt2/xrj4U9RAkV/82
-#EXTINF:-1 tvg-id="I289.74885.schedulesdirect.org" tvg-name="DISNEY JR" tvg-logo="http://bulltv.us/logoscanales/disneyjr.jpg" group-title="NIÑOS",DISNEY JR
-http://bulltv.us:2999/live/darlin/darlin/55.ts
-#EXTINF:-1 tvg-id="I195.16563.schedulesdirect.org" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="NIÑOS",DISNEY XD
-http://bulltv.us:2999/live/darlin/darlin/56.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="https://forounivers.com/uploads/monthly_2018_10/large.Distrito_comedia2018.png.2134b7cf7371cfacfd887b32228d20ec.png" group-title="Entretenimiento",DISTRITO COMEDIA
-http://bulltv.us:2999/live/darlin/darlin/57.ts
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="Entretenimiento",E!
-http://bulltv.us:2999/live/darlin/darlin/58.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL GARAGE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Entretenimiento",EL GARAGE
-http://bulltv.us:2999/live/darlin/darlin/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" group-title="Entretenimiento",EL GOURMET
-http://bulltv.us:2999/live/darlin/darlin/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESTRELLA TV" tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="Entretenimiento",ESTRELLA TV
-http://bulltv.us:2999/live/darlin/darlin/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entretenimiento",FOOD NETWORK
-http://bulltv.us:2999/live/darlin/darlin/67.ts
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="Mexico",FORO TV
-http://bulltv.us:2999/live/darlin/darlin/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Entretenimiento",FOX
-http://bulltv.us:2999/live/darlin/darlin/69.ts
-#EXTINF:-1 tvg-id="I513.105161.schedulesdirect.org" tvg-name="UNIVERSAL CRIME" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="CINEMA PREMIUM",UNIVERSAL CRIME
-http://bulltv.us:2999/live/darlin/darlin/70.ts
-#EXTINF:-1 tvg-id="I519.71662.schedulesdirect.org" tvg-name="UNIVERSAL CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="CINEMA PREMIUM",UNIVERSAL CINEMA
-http://bulltv.us:2999/live/darlin/darlin/71.ts
-#EXTINF:-1 tvg-id="I526.81294.schedulesdirect.org" tvg-name="UNIVERSAL REALITY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINEMA PREMIUM",UNIVERSAL REALITY
-http://bulltv.us:2999/live/darlin/darlin/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="Entretenimiento",FOX LIFE
-http://bulltv.us:2999/live/darlin/darlin/74.ts
-#EXTINF:-1 tvg-id="I530.58833.schedulesdirect.org" tvg-name="UNIVERSAL PREMIERE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png" group-title="CINEMA PREMIUM",UNIVERSAL PREMIERE
-http://bulltv.us:2999/live/darlin/darlin/75.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1312112437005635585/MTzEo4fv_400x400.png" group-title="DEPORTES",FOX SPORTS
-http://bulltv.us:2999/live/darlin/darlin/77.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",FOX SPORTS 2
-http://bulltv.us:2999/live/darlin/darlin/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="DEPORTES",FOX SPORTS 3
-http://bulltv.us:2999/live/darlin/darlin/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="Entretenimiento",FX
-http://bulltv.us:2999/live/darlin/darlin/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="Entretenimiento",FXM
-http://bulltv.us:2999/live/darlin/darlin/81.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALA TV" tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="Entretenimiento",GALA TV
-http://bulltv.us:2999/live/darlin/darlin/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="Entretenimiento",GLITZ
-http://bulltv.us:2999/live/darlin/darlin/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES",GOL TV
-http://bulltv.us:2999/live/darlin/darlin/84.ts
-#EXTINF:-1 tvg-id="I327.16423.schedulesdirect.org" tvg-name="GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="CINEMA PREMIUM",GOLDEN EDGE
-http://bulltv.us:2999/live/darlin/darlin/85.ts
-#EXTINF:-1 tvg-id="I330.68317.schedulesdirect.org" tvg-name="GOLDEN PLUS" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" group-title="CINEMA PREMIUM",GOLDEN PLUS
-http://bulltv.us:2999/live/darlin/darlin/86.ts
-#EXTINF:-1 tvg-id="I341.12288.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="CINEMA PREMIUM",HBO
-http://bulltv.us:2999/live/darlin/darlin/87.ts
-#EXTINF:-1 tvg-id="I356.68140.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CINEMA PREMIUM",HBO 2
-http://bulltv.us:2999/live/darlin/darlin/88.ts
-#EXTINF:-1 tvg-id="I342.34879.schedulesdirect.org" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINEMA PREMIUM",HBO FAMILY
-http://bulltv.us:2999/live/darlin/darlin/89.ts
-#EXTINF:-1 tvg-id="I347.34725.schedulesdirect.org" tvg-name="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CINEMA PREMIUM",HBO PLUS
-http://bulltv.us:2999/live/darlin/darlin/90.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png" group-title="CULTURA",HISTORY 2
-http://bulltv.us:2999/live/darlin/darlin/91.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="CULTURA",HISTORY CHANNEL
-http://bulltv.us:2999/live/darlin/darlin/92.ts
-#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="Entretenimiento",HOLA TV
-http://bulltv.us:2999/live/darlin/darlin/93.ts
-#EXTINF:-1 tvg-id="" tvg-name="IMAGEN " tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg" group-title="Mexico",IMAGEN 
-http://bulltv.us:2999/live/darlin/darlin/94.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="Entretenimiento",LIFETIME
-http://bulltv.us:2999/live/darlin/darlin/95.ts
-#EXTINF:-1 tvg-id="" tvg-name="MASCHIC" tvg-logo="https://pbs.twimg.com/profile_images/616231967407906816/hFYp8Jq9_400x400.jpg" group-title="Entretenimiento",MASCHIC
-http://bulltv.us:2999/live/darlin/darlin/96.ts
-#EXTINF:-1 tvg-id="I354.34887.schedulesdirect.org" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINEMA PREMIUM",HBO XTREME
-http://bulltv.us:2999/live/darlin/darlin/97.ts
-#EXTINF:-1 tvg-id="I349.68301.schedulesdirect.org" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINEMA PREMIUM",HBO POP
-http://bulltv.us:2999/live/darlin/darlin/98.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEXIQUENSE" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="Mexico",MEXIQUENSE
-http://bulltv.us:2999/live/darlin/darlin/99.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIMEDIOS MTY" tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="Mexico",MULTIMEDIOS MTY
-http://bulltv.us:2999/live/darlin/darlin/100.ts
-#EXTINF:-1 tvg-id="I437.105877.schedulesdirect.org" tvg-name="NAT GEO KIDS" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2017/7/5/660x290/b_1200x675/logo-de-natgeokids-imagen-cortesia_1427105.jpg" group-title="NIÑOS",NAT GEO KIDS
-http://bulltv.us:2999/live/darlin/darlin/101.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="CULTURA",NAT GEO MUNDO
-http://bulltv.us:2999/live/darlin/darlin/102.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://4.bp.blogspot.com/-NEHF7mv2dQc/WG2gPGTgs3I/AAAAAAAABoc/yxTUmMZzghI3tKxvGyQZsLSJIB8CB4SVgCLcB/s1600/maxresdefault.jpg" group-title="CULTURA",NAT GEO WILD
-http://bulltv.us:2999/live/darlin/darlin/103.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://pbs.twimg.com/profile_images/1277658125479403520/AOFAWNvv.jpg" group-title="CULTURA",NATIONAL GEOGRAPHIC
-http://bulltv.us:2999/live/darlin/darlin/104.ts
-#EXTINF:-1 tvg-id="nick.co" tvg-name="NICK" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="NIÑOS",NICK
-http://bulltv.us:2999/live/darlin/darlin/105.ts
-#EXTINF:-1 tvg-id="nickjr" tvg-name=" NICK JR" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="NIÑOS", NICK JR
-http://bulltv.us:2999/live/darlin/darlin/106.ts
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://kafkadesk.org/wp-content/uploads/2019/09/nicktoons-czech-republic.jpg" group-title="NIÑOS",NICKTOONS
-http://bulltv.us:2999/live/darlin/darlin/107.ts
-#EXTINF:-1 tvg-id="" tvg-name="PASIONES" tvg-logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg" group-title="Entretenimiento",PASIONES
-http://bulltv.us:2999/live/darlin/darlin/108.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="Noticias",RCN
-http://bulltv.us:2999/live/darlin/darlin/109.ts
-#EXTINF:-1 tvg-id="" tvg-name="RITMOSON" tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/notas_anteriores/notas_201612/20161201_16_24_RMS_Sit.jpg" group-title="Musica",RITMOSON
-http://bulltv.us:2999/live/darlin/darlin/110.ts
-#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="Entretenimiento",SHOWTIME
-http://bulltv.us:2999/live/darlin/darlin/111.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" group-title="Entretenimiento",SONY
-http://bulltv.us:2999/live/darlin/darlin/112.ts
-#EXTINF:-1 tvg-id="I509.60801.schedulesdirect.org" tvg-name="SPACE" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/large.321216179_space-tv(1).png.559057afa15fc73a34e57637b066b575.png" group-title="CINEMA PREMIUM",SPACE
-http://bulltv.us:2999/live/darlin/darlin/113.ts
-#EXTINF:-1 tvg-id="I525.12719.schedulesdirect.org" tvg-name="STARZ" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png" group-title="CINEMA PREMIUM",STARZ
-http://bulltv.us:2999/live/darlin/darlin/114.ts
-#EXTINF:-1 tvg-id="I426.102905.schedulesdirect.org" tvg-name="STARZ ENCORE" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/12/starz.jpg" group-title="CINEMA PREMIUM",STARZ ENCORE
-http://bulltv.us:2999/live/darlin/darlin/115.ts
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="CINEMA PREMIUM",STUDIO UNIVERSAL
-http://bulltv.us:2999/live/darlin/darlin/116.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sundance" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/01/Sundance-TV.png" group-title="Entretenimiento",Sundance
-http://bulltv.us:2999/live/darlin/darlin/117.ts
-#EXTINF:-1 tvg-id="I627.56727.schedulesdirect.org" tvg-name="SYFY" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sy-fy_m.png" group-title="CINEMA PREMIUM",SYFY
-http://bulltv.us:2999/live/darlin/darlin/118.ts
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png" group-title="Entretenimiento",TBS
-http://bulltv.us:2999/live/darlin/darlin/119.ts
-#EXTINF:-1 tvg-id="I630.19246.schedulesdirect.org" tvg-name="TCM" tvg-logo="http://sincroguia-tv.expansion.com/uploads/images/t/c/m/tcm.jpg" group-title="CINEMA PREMIUM",TCM
-http://bulltv.us:2999/live/darlin/darlin/120.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://selectra.mx/sites/default/files/images/logos/teleformula-350x183.png" group-title="Noticias",TELEFORMULA
-http://bulltv.us:2999/live/darlin/darlin/121.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telehit_m.png" group-title="Musica",TELEHIT
-http://bulltv.us:2999/live/darlin/darlin/122.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://bulltv.us:2999/live/darlin/darlin/6.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL PRINCIPE DEL RAP" tvg-logo="https://www.enter.co/wp-content/uploads/2017/09/Captura-de-pantalla-2017-09-29-a-las-12.11.22-p.m.-1024x768.jpg" group-title="24/7",EL PRINCIPE DEL RAP
-http://bulltv.us:2999/live/darlin/darlin/156.ts
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TOONS" tvg-logo="https://enlacerv.co.ve/wp-content/uploads/2020/06/Looney-Tunes-281x300.jpg" group-title="24/7",LOONEY TOONS
-http://bulltv.us:2999/live/darlin/darlin/157.ts
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory" tvg-logo="https://www.formulatv.com/images/series/posters/100/185/14_m3.jpg" group-title="24/7",The Big Bang Theory
-http://bulltv.us:2999/live/darlin/darlin/158.ts
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Temp 1-5" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/The_Simpsons_-_The_Complete_1st_Season.jpg" group-title="24/7",Los Simpsons Temp 1-5
-http://bulltv.us:2999/live/darlin/darlin/159.ts
-#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Temporada 6-10" tvg-logo="https://i.pinimg.com/originals/b5/b4/d7/b5b4d7acf0f4b2ac633a154a3832819a.jpg" group-title="24/7",Los Simpsons Temporada 6-10
-http://bulltv.us:2999/live/darlin/darlin/160.ts
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI1NmRjNTAtZjY1ZS00MDhjLWJhOTUtNDRiZDFjYThiZTliXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR134,0,630,1200_AL_.jpg" group-title="24/7",NARUTO
-http://bulltv.us:2999/live/darlin/darlin/162.ts
-#EXTINF:-1 tvg-id="" tvg-name="HE MAN" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91mFEP+M+4L.jpg" group-title="24/7",HE MAN
-http://bulltv.us:2999/live/darlin/darlin/163.ts
-#EXTINF:-1 tvg-id="" tvg-name="CABALLEROS DEL SODIACO" tvg-logo="https://okdiario.com/img/2019/04/05/pocoyo.jpg" group-title="24/7",CABALLEROS DEL SODIACO
-http://bulltv.us:2999/live/darlin/darlin/164.ts
-#EXTINF:-1 tvg-id="" tvg-name="MASINGERZ" tvg-logo="http://3.bp.blogspot.com/-0gmhHKnBJwI/Uov8eaz6LkI/AAAAAAAAAOM/f_S9m3YMyTY/s1600/620x310_phineas.jpg" group-title="24/7",MASINGERZ
-http://bulltv.us:2999/live/darlin/darlin/165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Megaman" tvg-logo="https://www.masgamers.com/wp-content/uploads/2019/11/Mega-Man-11-foto-1.jpg" group-title="24/7",Megaman
-http://bulltv.us:2999/live/darlin/darlin/166.ts
-#EXTINF:-1 tvg-id="" tvg-name="Loony toons" tvg-logo="https://media.gq.com/photos/5b4d13b99eea1c27bfdb9e93/master/pass/Looney-Toons-GQ-July-2018-071618-3x2.jpg" group-title="24/7",Loony toons
-http://bulltv.us:2999/live/darlin/darlin/167.ts
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Mickey Mouse" tvg-logo="https://i0.wp.com/2.bp.blogspot.com/-8S4SiKWnuNs/WiG0qv_lcaI/AAAAAAAATW0/yFp0-AnXfogqQ_vMQPoMUAMYlESDWEtrACLcBGAs/s1600/La%2BCasa%2Bde%2BMickey%2BMouse.jpg" group-title="24/7",La Casa de Mickey Mouse
-http://bulltv.us:2999/live/darlin/darlin/168.ts
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042012/cars_2.png?itok=JXy7Blmx" group-title="24/7",BOB ESPONJA
-http://bulltv.us:2999/live/darlin/darlin/169.ts
-#EXTINF:-1 tvg-id="" tvg-name="MALCOLM" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/0143af16f621ff8da497fc8d93697da13192abee8d55c9401d753e8b74a4c5f6._RI_V_TTW_.jpg" group-title="24/7",MALCOLM
-http://bulltv.us:2999/live/darlin/darlin/170.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL COYOTE Y EL CORRECAMINOS" tvg-logo="https://i.ytimg.com/vi/KKFrzEoCmyY/maxresdefault.jpg" group-title="24/7",EL COYOTE Y EL CORRECAMINOS
-http://bulltv.us:2999/live/darlin/darlin/171.ts
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DE BARRIO" tvg-logo="https://i.pinimg.com/originals/d2/2c/7f/d22c7ff730598bec02cdb309393393ce.jpg" group-title="24/7",FAMILIA DE BARRIO
-http://bulltv.us:2999/live/darlin/darlin/172.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO TV" tvg-logo="https://heraldodemexico.com.mx/u/fotografias/m/2020/8/8/f638x638-941_59108_5050.png" group-title="24/7",EL CHAVO TV
-http://bulltv.us:2999/live/darlin/darlin/173.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOUNSTRUOS DE VERDAD" tvg-logo="https://i.pinimg.com/236x/8b/5e/a8/8b5ea8244778ce3e84d7cb90876d777a--real-monsters-infancy.jpg" group-title="24/7",MOUNSTRUOS DE VERDAD
-http://bulltv.us:2999/live/darlin/darlin/174.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH |  Bonanza" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81HlBJjoPUL._SL1500_.jpgFtZTcwMDk5MTIwNw@@._V1_UY1200_CR106,0,630,1200_AL_.jpg" group-title="24/7",ENGLISH |  Bonanza
-http://bulltv.us:2999/live/darlin/darlin/175.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | Sherlock Holmes" tvg-logo="https://www.infobae.com/new-resizer/Zp5Inyh8Cxb4sLpvSzusxYeRRkM=/1200x900/filters:format(jpg):quality(85)//s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/01/06130506/sherlock-holmes.jpg" group-title="24/7",ENGLISH | Sherlock Holmes
-http://bulltv.us:2999/live/darlin/darlin/176.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | The Greatest American Hero" tvg-logo="https://cdn.christianpost.com/files/original/thumbnail/21/53/215349.jpg" group-title="24/7",ENGLISH | The Greatest American Hero
-http://bulltv.us:2999/live/darlin/darlin/177.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENGLISH | The Lone Ranger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Lone_ranger_silver_1965.JPG" group-title="24/7",ENGLISH | The Lone Ranger
-http://bulltv.us:2999/live/darlin/darlin/178.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peppa pig" tvg-logo="https://los40es00.epimg.net/los40/imagenes/2020/02/04/cinetv/1580834241_572538_1580834379_noticia_normal.jpg" group-title="24/7",Peppa pig
-http://bulltv.us:2999/live/darlin/darlin/179.ts
-#EXTINF:-1 tvg-id="" tvg-name="EBS Kids EN" tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/kr-ebs-kids-2560.jpg" group-title="24/7",EBS Kids EN
-http://bulltv.us:2999/live/darlin/darlin/180.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41GJN0p32yL._AC_.jpg" group-title="XXX ADULTOS",Brazzers
-http://bulltv.us:2999/live/darlin/darlin/181.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dusk" tvg-logo="https://pbs.twimg.com/profile_images/727426602519400448/Ivv-8kHr_400x400.jpg" group-title="XXX ADULTOS",Dusk
-http://bulltv.us:2999/live/darlin/darlin/182.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hustler" tvg-logo="https://www.pasjatv.pl/files/tv/photo/max/149684465672_hustler_hd.jpg" group-title="XXX ADULTOS",Hustler
-http://bulltv.us:2999/live/darlin/darlin/183.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://ichef.bbci.co.uk/news/640/cpsprodpb/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg" group-title="XXX ADULTOS",Playboy
-http://bulltv.us:2999/live/darlin/darlin/184.ts
-#EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="https://i.pinimg.com/originals/8f/67/62/8f67620e90fba5d5ae19976244553828.png" group-title="XXX ADULTOS",Venus
-http://bulltv.us:2999/live/darlin/darlin/185.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIVID Red" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_vivid_red.png" group-title="XXX ADULTOS",VIVID Red
-http://bulltv.us:2999/live/darlin/darlin/186.ts
-#EXTINF:-1 tvg-id="" tvg-name="Redlight" tvg-logo="https://www.dreamportugal.pt/image/cache/catalog/Logos/redlight-tv-logo-200x200.jpg" group-title="XXX ADULTOS",Redlight
-http://bulltv.us:2999/live/darlin/darlin/187.ts
-#EXTINF:-1 tvg-id="" tvg-name="Prıvate TV" tvg-logo="https://www.pngkey.com/png/detail/282-2820841_private-tv.png" group-title="XXX ADULTOS",Prıvate TV
-http://bulltv.us:2999/live/darlin/darlin/188.ts
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies " tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="XXX ADULTOS",Penthouse Quickies 
-http://bulltv.us:2999/live/darlin/darlin/189.ts
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold" tvg-logo="https://img15.lostpic.net/2019/10/13/71fceea1166c7f876c26645e9688c6d8.png" group-title="XXX ADULTOS",Penthouse Gold
-http://bulltv.us:2999/live/darlin/darlin/190.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX" tvg-logo="https://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/362x263-dorcel-xxx-36958.png" group-title="XXX ADULTOS",Dorcel XXX
-http://bulltv.us:2999/live/darlin/darlin/191.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 1" tvg-logo="https://pbs.twimg.com/profile_images/1519036851/logo.png" group-title="XXX ADULTOS",ADULTOS 1
-http://bulltv.us:2999/live/darlin/darlin/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 2" tvg-logo="https://thumbs.dreamstime.com/b/contenido-del-adulto-xxx-36739011.jpg" group-title="XXX ADULTOS",ADULTOS 2
-http://bulltv.us:2999/live/darlin/darlin/193.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULTOS 3" tvg-logo="https://st.depositphotos.com/1915171/3504/i/950/depositphotos_35046753-stock-photo-xxx-adults-only-content-sign.jpg" group-title="XXX ADULTOS",ADULTOS 3
-http://bulltv.us:2999/live/darlin/darlin/194.ts
-#EXTINF:-1 tvg-id="" tvg-name="JASMIN TV" tvg-logo="https://i.pinimg.com/474x/24/93/14/24931450179cead898a2a9359e15f42d.jpg" group-title="XXX ADULTOS",JASMIN TV
-http://bulltv.us:2999/live/darlin/darlin/195.ts
-#EXTINF:-1 tvg-id="" tvg-name="18+" tvg-logo="https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png" group-title="XXX ADULTOS",18+
-http://bulltv.us:2999/live/darlin/darlin/196.ts
-#EXTINF:-1 tvg-id="" tvg-name="13I" tvg-logo="https://4.bp.blogspot.com/-V6aDzu13DkE/VeT2yGjAcJI/AAAAAAAAIkE/KCKLjxl2ZR8/s1600/13i.png" group-title="Chile",13I
-http://bulltv.us:2999/live/darlin/darlin/221.ts
-#EXTINF:-1 tvg-id="" tvg-name="24HORAS" tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/07/24-horas-e1532701395821.jpg" group-title="Chile",24HORAS
-http://bulltv.us:2999/live/darlin/darlin/222.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/478px-Canal_13_%28Chile%29_logo.svg.png" group-title="Chile",CANAL 13
-http://bulltv.us:2999/live/darlin/darlin/223.ts
-#EXTINF:-1 tvg-id="" tvg-name="CDF" tvg-logo="https://farodeportivo.s3.sa-east-1.amazonaws.com/wp-content/uploads/2017/11/15172014/Pablo-Milad-CDF.png" group-title="Chile",CDF
-http://bulltv.us:2999/live/darlin/darlin/224.ts
-#EXTINF:-1 tvg-id="" tvg-name="CDF BASICO" tvg-logo="https://3.bp.blogspot.com/-BC2gESZviJ8/VBO0QbFfPsI/AAAAAAAACzc/hOChWD8tlFk/s1600/CDF%2BB%C3%A1sico.png" group-title="Chile",CDF BASICO
-http://bulltv.us:2999/live/darlin/darlin/225.ts
-#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUN" tvg-logo="https://www.directv.cl/img_chile/concursos/cdf_logo.jpg" group-title="Chile",CDF PREMIUN
-http://bulltv.us:2999/live/darlin/darlin/226.ts
-#EXTINF:-1 tvg-id="" tvg-name="CDO BASICO" tvg-logo="https://cdn-w.zapping.live/img/chlogos/cdobasico.jpg" group-title="Chile",CDO BASICO
-http://bulltv.us:2999/live/darlin/darlin/227.ts
-#EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUN" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png" group-title="Chile",CDO PREMIUN
-http://bulltv.us:2999/live/darlin/darlin/228.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="https://brandemia.org/sites/default/files/logo_chilevision.jpg" group-title="Chile",CHILEVISION
-http://bulltv.us:2999/live/darlin/darlin/229.ts
-#EXTINF:-1 tvg-id="" tvg-name="ETC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="Chile",ETC TV
-http://bulltv.us:2999/live/darlin/darlin/230.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="Chile",LA RED
-http://bulltv.us:2999/live/darlin/darlin/231.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="Chile",MEGA
-http://bulltv.us:2999/live/darlin/darlin/232.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELETRAK" tvg-logo="https://3.bp.blogspot.com/-AZRvYmplcVs/WU_wZDYxcxI/AAAAAAAABkk/lYdqLUyjbR8dpbcQS664A0Bm9f_2194_ACLcBGAs/s1600/Teletrak.jpg" group-title="DEPORTES",TELETRAK
-http://bulltv.us:2999/live/darlin/darlin/233.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://i.imgur.com/YSFGB35.png" group-title="Chile",TVN
-http://bulltv.us:2999/live/darlin/darlin/234.ts
-#EXTINF:-1 tvg-id="" tvg-name="PINGUINO TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-pinguino-tv-1219.jpg" group-title="Chile",PINGUINO TV
-http://bulltv.us:2999/live/darlin/darlin/235.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | CINE SUREÑO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="CINEMA PREMIUM",USA -L | CINE SUREÑO
-http://bulltv.us:2999/live/darlin/darlin/237.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | TOP CINE " tvg-logo="https://bandnatal.files.wordpress.com/2012/02/top-cine.jpg" group-title="CINEMA PREMIUM",USA -L | TOP CINE 
-http://bulltv.us:2999/live/darlin/darlin/238.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA -L | HORRORIFY" tvg-logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg" group-title="CINEMA PREMIUM",USA -L | HORRORIFY
-http://bulltv.us:2999/live/darlin/darlin/240.ts
-#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TNT" tvg-logo="https://pbs.twimg.com/profile_images/1330728097348538368/i6cFKl8w_400x400.jpg" group-title="CINEMA PREMIUM",TNT
-http://bulltv.us:2999/live/darlin/darlin/243.ts
-#EXTINF:-1 tvg-id="I326.16298.schedulesdirect.org" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="CINEMA PREMIUM",GOLDEN
-http://bulltv.us:2999/live/darlin/darlin/244.ts
-#EXTINF:-1 tvg-id="I333.80596.schedulesdirect.org" tvg-name="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINEMA PREMIUM",GOLDEN PREMIER
-http://bulltv.us:2999/live/darlin/darlin/245.ts
-#EXTINF:-1 tvg-id="I352.80120.schedulesdirect.org" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-signature_m.png" group-title="CINEMA PREMIUM",HBO SIGNATURE
-http://bulltv.us:2999/live/darlin/darlin/246.ts
-#EXTINF:-1 tvg-id="I523.90969.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="CINEMA PREMIUM",UNIVERSAL COMEDY
-http://bulltv.us:2999/live/darlin/darlin/247.ts
-#EXTINF:-1 tvg-id="I688.16799.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg" group-title="CINEMA PREMIUM",Universal Channel
-http://bulltv.us:2999/live/darlin/darlin/248.ts
-#EXTINF:-1 tvg-id="I884.44479.schedulesdirect.org" tvg-name="CGTN ESPANOL" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Mhwckj1mL.jpg" group-title="CINEMA PREMIUM",CGTN ESPANOL
-http://bulltv.us:2999/live/darlin/darlin/249.ts
-#EXTINF:-1 tvg-id="I346.70081.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINEMA PREMIUM",HBO MUNDI
-http://bulltv.us:2999/live/darlin/darlin/250.ts
-#EXTINF:-1 tvg-id="I470.106214.schedulesdirect.org" tvg-name="Paramount" tvg-logo="https://pbs.twimg.com/profile_images/1249929366353649669/c_MyBiGs.jpg" group-title="CINEMA PREMIUM",Paramount
-http://bulltv.us:2999/live/darlin/darlin/251.ts
-#EXTINF:-1 tvg-id="I430.88305.schedulesdirect.org" tvg-name="FILMS ART" tvg-logo="https://pbs.twimg.com/profile_images/1115324965681868800/7ks7jt6l_400x400.png" group-title="CINEMA PREMIUM",FILMS ART
-http://bulltv.us:2999/live/darlin/darlin/252.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caracol." tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="Colombia",Caracol.
-http://bulltv.us:2999/live/darlin/darlin/254.ts
-#EXTINF:-1 tvg-id="" tvg-name="RCN." tvg-logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg" group-title="Colombia",RCN.
-http://bulltv.us:2999/live/darlin/darlin/255.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="Noticias",NTN24
-http://bulltv.us:2999/live/darlin/darlin/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="NTN24." tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="Colombia",NTN24.
-http://bulltv.us:2999/live/darlin/darlin/257.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL" tvg-logo="https://www.vippng.com/png/detail/226-2264219_caracol-internacional-caracol-televisin.png" group-title="Noticias",CARACOL INTERNACIONAL
-http://bulltv.us:2999/live/darlin/darlin/258.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARACOL INTERNACIONAL." tvg-logo="https://www.vippng.com/png/detail/226-2264219_caracol-internacional-caracol-televisin.png" group-title="Colombia",CARACOL INTERNACIONAL.
-http://bulltv.us:2999/live/darlin/darlin/259.ts
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="Noticias",CITY TV
-http://bulltv.us:2999/live/darlin/darlin/260.ts
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV." tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="Colombia",CITY TV.
-http://bulltv.us:2999/live/darlin/darlin/261.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL TIEMPO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png" group-title="Noticias",EL TIEMPO
-http://bulltv.us:2999/live/darlin/darlin/262.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL TIEMPO." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png" group-title="Colombia",EL TIEMPO.
-http://bulltv.us:2999/live/darlin/darlin/263.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEANTIOQUIA" tvg-logo="https://img.new.livestream.com/accounts/00000000008fda44/dac7e231-0eea-489f-8123-7eb57fe1aef7.jpg" group-title="Colombia",TELEANTIOQUIA
-http://bulltv.us:2999/live/darlin/darlin/264.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECARIBE" tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="Colombia",TELECARIBE
-http://bulltv.us:2999/live/darlin/darlin/265.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACIFICO" tvg-logo="https://occidente.co/wp-content/uploads/2019/06/logo-telepacifico.jpg" group-title="Colombia",TELEPACIFICO
-http://bulltv.us:2999/live/darlin/darlin/266.ts
-#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS PLUS" tvg-logo="https://www.futbolete.com/wp-content/uploads/2019/12/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600-1.jpg" group-title="DEPORTES",WINSPORTS PLUS
-http://bulltv.us:2999/live/darlin/darlin/267.ts
-#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS +" tvg-logo="https://www.futbolete.com/wp-content/uploads/2019/12/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600-1.jpg" group-title="Colombia",WINSPORTS +
-http://bulltv.us:2999/live/darlin/darlin/268.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELETICA 7" tvg-logo="https://www.gentecoyol.com/wp-content/uploads/2019/05/48383248_2069699959719496_3237791311184527360_n.png" group-title="Costa Rica",TELETICA 7
-http://bulltv.us:2999/live/darlin/darlin/269.ts
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/REP6_1999.png/640px-REP6_1999.png" group-title="Costa Rica",REPRETEL 6 
-http://bulltv.us:2999/live/darlin/darlin/270.ts
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 11 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Rep11Logo.png" group-title="Costa Rica",REPRETEL 11 
-http://bulltv.us:2999/live/darlin/darlin/271.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEUNO" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_teleuno1998.jpg" group-title="Costa Rica",TELEUNO
-http://bulltv.us:2999/live/darlin/darlin/272.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 14 TV SUR" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2014/12/prenza-tv-sur.jpg" group-title="Costa Rica",CANAL 14 TV SUR
-http://bulltv.us:2999/live/darlin/darlin/273.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://plataformas.news/online/nota_futv-anuncio-su-lanzamiento-en-tv-paga-.jpg" group-title="Costa Rica",FUTV
-http://bulltv.us:2999/live/darlin/darlin/274.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION" tvg-logo="https://www.ecured.cu/images/thumb/c/cc/Cubavisi%C3%B3n_logo.jpg/260px-Cubavisi%C3%B3n_logo.jpg" group-title="Cuba",CUBAVISION
-http://bulltv.us:2999/live/darlin/darlin/275.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUBAVISION INTERNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/hn_cubavision_m.png" group-title="Cuba",CUBAVISION INTERNACIONAL
-http://bulltv.us:2999/live/darlin/darlin/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://www.radionacional.gov.py/wp-content/uploads/2018/04/ar_america-2-capital_m.png" group-title="Cuba",AMERICA TV
-http://bulltv.us:2999/live/darlin/darlin/277.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTIVISION" tvg-logo="https://www.ecured.cu/images/thumb/d/de/LOGO-MV-2.png/300px-LOGO-MV-2.png" group-title="Cuba",MULTIVISION
-http://bulltv.us:2999/live/darlin/darlin/278.ts
-#EXTINF:-1 tvg-id="" tvg-name="CUBAPLAY" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" group-title="Cuba",CUBAPLAY
-http://bulltv.us:2999/live/darlin/darlin/279.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA",DISCOVERY SCIENCE
-http://bulltv.us:2999/live/darlin/darlin/280.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | TUDN" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="DEPORTES",USA | TUDN
-http://bulltv.us:2999/live/darlin/darlin/291.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN 2 " tvg-logo="https://i2.wp.com/deportes24.live/wp-content/uploads/2021/02/ESPN-2.png" group-title="DEPORTES",USA | ESPN 2 
-http://bulltv.us:2999/live/darlin/darlin/295.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN U" tvg-logo="https://www.houstononthecheap.com/wp-content/uploads/2020/02/watch-ESPNU-online.jpg" group-title="DEPORTES",USA | ESPN U
-http://bulltv.us:2999/live/darlin/darlin/297.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fight Networ" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/e1/27/d8/e127d8f2-012e-02b6-5cb2-db3f830b5746/App_Icon_-_Small-marketing.lsr/1024x1024bb.jpg" group-title="DEPORTES",Fight Networ
-http://bulltv.us:2999/live/darlin/darlin/298.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Arizona" tvg-logo="https://www.soda.com/wp-content/uploads/2017/05/FOX_Sports_Arizona.jpg" group-title="DEPORTES",FOX Sports Arizona
-http://bulltv.us:2999/live/darlin/darlin/299.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Indiana" tvg-logo="https://www.killthecablebill.com/images/cancelcable/watch-fox-sports-indiana-without-cable-1024x576.jpg" group-title="DEPORTES",FOX Sports Indiana
-http://bulltv.us:2999/live/darlin/darlin/300.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports North" tvg-logo="https://pbs.twimg.com/profile_images/1280214311152029697/ew8VrxqB_400x400.jpg" group-title="DEPORTES",FOX Sports North
-http://bulltv.us:2999/live/darlin/darlin/301.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Ohio" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/12/fox-sports-ohio-logo-vector.png" group-title="DEPORTES",FOX Sports Ohio
-http://bulltv.us:2999/live/darlin/darlin/302.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports San Diego" tvg-logo="https://pbs.twimg.com/profile_images/1283557290130341892/xW1j8mWK_400x400.jpg" group-title="DEPORTES",FOX Sports San Diego
-http://bulltv.us:2999/live/darlin/darlin/303.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports South" tvg-logo="https://www.soda.com/wp-content/uploads/2018/11/fox-sports-south-live-stream-600x361.jpg" group-title="DEPORTES",FOX Sports South
-http://bulltv.us:2999/live/darlin/darlin/304.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SouthEast" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="DEPORTES",FOX Sports SouthEast
-http://bulltv.us:2999/live/darlin/darlin/305.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports SouthWest" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/RSN/Southwest/2014/03/06/030714-SW-Logo-PI.jpg" group-title="DEPORTES",FOX Sports SouthWest
-http://bulltv.us:2999/live/darlin/darlin/306.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Sun" tvg-logo="https://pbs.twimg.com/profile_images/1116068810832928775/EnsBRC3m_400x400.png" group-title="DEPORTES",FOX Sports Sun
-http://bulltv.us:2999/live/darlin/darlin/307.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports West" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/RSN/West/2013/12/26/122613-West-FSW-PI.vresize.1024.576.high.31.jpg" group-title="DEPORTES",FOX Sports West
-http://bulltv.us:2999/live/darlin/darlin/308.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports" tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_400x400.jpg" group-title="DEPORTES",Eleven Sports
-http://bulltv.us:2999/live/darlin/darlin/309.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area" tvg-logo="https://content.production.cdn.art19.com/images/3c/cd/a7/63/3ccda763-e627-4737-b253-b08ba26e6034/51aec1b031adc7acab39dc595c37267185b6d3d70336b6a8135d223ffd490853fd2b31be8f5223bc2d63c88041790a9ce18021aefa6cfdee29438db5453a4ebf.jpeg" group-title="DEPORTES",NBC Sports Bay Area
-http://bulltv.us:2999/live/darlin/darlin/310.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Boston" tvg-logo="https://art19-production.s3-us-west-1.amazonaws.com/images/1a/d7/b7/54/1ad7b754-a2f2-499d-bd34-81a690e0a72c/e04c5f141a78e9c83a2596c4ff3391ec6098f63b2f61ea277fdcbb511737172b20ceead21a6986d2e949b7b9f4c50ab84318788389380b443cf7894c4fe7347a.jpeg" group-title="DEPORTES",NBC Sports Boston
-http://bulltv.us:2999/live/darlin/darlin/311.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports California" tvg-logo="https://cms.nhl.bamgrid.com/images/photos/288216018/1024x576/cut.jpg" group-title="DEPORTES",NBC Sports California
-http://bulltv.us:2999/live/darlin/darlin/312.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago" tvg-logo="https://pbs.twimg.com/profile_images/929723420094468096/YMDRL7UN_400x400.jpg" group-title="DEPORTES",NBC Sports Chicago
-http://bulltv.us:2999/live/darlin/darlin/313.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Northwest" tvg-logo="https://pbs.twimg.com/profile_images/929758074012778496/hWSKZmVV_400x400.jpg" group-title="DEPORTES",NBC Sports Northwest
-http://bulltv.us:2999/live/darlin/darlin/314.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Philadelphia" tvg-logo="https://pbs.twimg.com/profile_images/929703795562606593/rcRs1pMs_400x400.jpg" group-title="DEPORTES",NBC Sports Philadelphia
-http://bulltv.us:2999/live/darlin/darlin/315.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Washington" tvg-logo="https://pbs.twimg.com/profile_images/929940820106543104/lm8kP157.jpg" group-title="DEPORTES",NBC Sports Washington
-http://bulltv.us:2999/live/darlin/darlin/316.ts
-#EXTINF:-1 tvg-id="" tvg-name="Spectrum Sportsnet" tvg-logo="https://www.nba.com/lakers/sites/lakers/files/ts_spectrum_sportsnet.jpg" group-title="DEPORTES",Spectrum Sportsnet
-http://bulltv.us:2999/live/darlin/darlin/317.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS KANSAS CITY " tvg-logo="https://pbs.twimg.com/profile_images/661596420684648448/N3-jNplu_400x400.jpg" group-title="DEPORTES",FOX SPORTS KANSAS CITY 
-http://bulltv.us:2999/live/darlin/darlin/318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Detroit" tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/RSN/Detroit/2014/01/13/pi-foxs-sports-detroit.vresize.1024.576.high.98.jpg" group-title="DEPORTES",Fox Sports Detroit
-http://bulltv.us:2999/live/darlin/darlin/319.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Mid West" tvg-logo="https://pbs.twimg.com/profile_images/2565604664/sxrf5domt42xce5o1gzp_400x400.jpeg" group-title="DEPORTES",Fox Sports Mid West
-http://bulltv.us:2999/live/darlin/darlin/320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports New Orleans" tvg-logo="https://pbs.twimg.com/profile_images/661207149893193729/TvFpXDpM_400x400.png" group-title="DEPORTES",Fox Sports New Orleans
-http://bulltv.us:2999/live/darlin/darlin/321.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Prime Ticket" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/07/fox-sports-prime-ticket.jpg" group-title="DEPORTES",Fox Sports Prime Ticket
-http://bulltv.us:2999/live/darlin/darlin/322.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports South West Plus" tvg-logo="https://sport-tv-guide.live/images/tv-station-fox-sports-southwest-981.png" group-title="DEPORTES",Fox Sports South West Plus
-http://bulltv.us:2999/live/darlin/darlin/323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Tennessee" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2018/02/gE-s-OlH_400x400.jpg" group-title="DEPORTES",Fox Sports Tennessee
-http://bulltv.us:2999/live/darlin/darlin/324.ts
-#EXTINF:-1 tvg-id="" tvg-name="NESN SPORT" tvg-logo="https://image.freepik.com/vector-gratis/titular-live-sports-news-fondo-mapa-mundial-punteado-azul_175838-367.jpg" group-title="DEPORTES",NESN SPORT
-http://bulltv.us:2999/live/darlin/darlin/325.ts
-#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS NETWORK" tvg-logo="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464754425/ys5pzhl5bucqzeofz0fc.png" group-title="DEPORTES",CBS SPORTS NETWORK
-http://bulltv.us:2999/live/darlin/darlin/326.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTNET LA" tvg-logo="https://www.cmdsport.com/app/uploads/2015/02/logo-netsport.jpg" group-title="DEPORTES",SPORTNET LA
-http://bulltv.us:2999/live/darlin/darlin/327.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | FOX SPORTS PREMIUM" tvg-logo="https://i.pinimg.com/474x/74/6c/24/746c24b318aea03ba401a4910fc9cac3.jpg" group-title="DEPORTES",ARGENTINA | FOX SPORTS PREMIUM
-http://bulltv.us:2999/live/darlin/darlin/329.ts
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA | TNT SPORTS" tvg-logo="https://www.latinspots.com/files/notas/GTNTSports_Programacion_web.jpg" group-title="DEPORTES",ARGENTINA | TNT SPORTS
-http://bulltv.us:2999/live/darlin/darlin/330.ts
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | TIGO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",COSTA RICA | TIGO SPORTS
-http://bulltv.us:2999/live/darlin/darlin/331.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet 360" tvg-logo="https://images.thestar.com/72nYwbJsGaa8ynDqAMAzRFOl1Vw=/1086x703/smart/filters:cb(2700061000)/https://www.thestar.com/content/dam/thestar/sports/2013/06/07/rogers_unveils_sportsnet_360_details_mudhar/sportsnet_360.jpg" group-title="CANADA",CANADA | Sportsnet 360
-http://bulltv.us:2999/live/darlin/darlin/332.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet One" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/6xrBhwsKkMIbRxhw0n7lnd/6d8ab7df5548a392d19ff2ac52813a57/Sportsnet_One.jpg" group-title="CANADA",CANADA | Sportsnet One
-http://bulltv.us:2999/live/darlin/darlin/334.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet World" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/c7/43/25/c743259d-bb07-2ac2-49a6-550324af62ff/source/512x512bb.jpg" group-title="CANADA",CANADA | Sportsnet World
-http://bulltv.us:2999/live/darlin/darlin/335.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | Sportsnet Ontario" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/500px-SportsnetOntario2011.png" group-title="CANADA",CANADA | Sportsnet Ontario
-http://bulltv.us:2999/live/darlin/darlin/336.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | SPORTSNET EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/sportsnetwest.png" group-title="CANADA",CANADA | SPORTSNET EAST
-http://bulltv.us:2999/live/darlin/darlin/338.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 1" tvg-logo="https://logodix.com/logo/1906241.png" group-title="CANADA",CANADA | TSN 1
-http://bulltv.us:2999/live/darlin/darlin/339.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 2" tvg-logo="https://sport-tv-guide.live/images/tv-station-tsn2-189.png" group-title="CANADA",CANADA | TSN 2
-http://bulltv.us:2999/live/darlin/darlin/340.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" group-title="CANADA",CANADA | TSN 3
-http://bulltv.us:2999/live/darlin/darlin/341.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" group-title="CANADA",CANADA | TSN 4
-http://bulltv.us:2999/live/darlin/darlin/342.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANADA | TSN 5" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="CANADA",CANADA | TSN 5
-http://bulltv.us:2999/live/darlin/darlin/343.ts
-#EXTINF:-1 tvg-id="" tvg-name="Latino | ADN40" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="DEPORTES",Latino | ADN40
-http://bulltv.us:2999/live/darlin/darlin/345.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc-640x320.jpg" group-title="DEPORTES",TVC Deportes
-http://bulltv.us:2999/live/darlin/darlin/347.ts
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES",TyC Sports
-http://bulltv.us:2999/live/darlin/darlin/348.ts
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
-http://bulltv.us:2999/live/darlin/darlin/349.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="DEPORTES",DIRECTV SPORTS 2
-http://bulltv.us:2999/live/darlin/darlin/350.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://www.ver-television.online/images/directvsportsplus_.png" group-title="DEPORTES",DIRECTV SPORTS 1
-http://bulltv.us:2999/live/darlin/darlin/351.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports-1024x576.jpg" group-title="DEPORTES",DIRECTV SPORTS +
-http://bulltv.us:2999/live/darlin/darlin/352.ts
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sport Network" tvg-logo="https://pbs.twimg.com/profile_images/1080017503047213056/9sMHy4R5_400x400.jpg" group-title="DEPORTES",Adrenalina Sport Network
-http://bulltv.us:2999/live/darlin/darlin/353.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL UNO" tvg-logo="https://i.pinimg.com/originals/44/56/03/445603f1f3be3708d3bf74ec435376fb.png" group-title="Ecuador",CANAL UNO
-http://bulltv.us:2999/live/darlin/darlin/355.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-ecuador-tv-5198.jpg" group-title="Ecuador",ECUADOR TV
-http://bulltv.us:2999/live/darlin/darlin/356.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECUADOR TV INTERNACIONAL" tvg-logo="https://2.bp.blogspot.com/-EI3mJRm3-lU/WhL0RuTOFOI/AAAAAAAAcsk/9nEFbNi8I-0ut_xY3JjwCDK4TsFMqRjlACLcBGAs/w1200-h630-p-k-no-nu/EcuadorTV%2BInternacional%2Ben%2Bvivo.PNG" group-title="Ecuador",ECUADOR TV INTERNACIONAL
-http://bulltv.us:2999/live/darlin/darlin/357.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="Ecuador",ECUAVISA
-http://bulltv.us:2999/live/darlin/darlin/358.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="Ecuador",ECUAVISA INTERNACIONAL
-http://bulltv.us:2999/live/darlin/darlin/359.ts
-#EXTINF:-1 tvg-id="" tvg-name="GAMAVISION" tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png" group-title="Ecuador",GAMAVISION
-http://bulltv.us:2999/live/darlin/darlin/360.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador",RTS
-http://bulltv.us:2999/live/darlin/darlin/361.ts
-#EXTINF:-1 tvg-id="" tvg-name="TC TELEVISION" tvg-logo="https://i.pinimg.com/originals/bc/8e/14/bc8e14348424cc7c2dae4feec71e5a27.jpg" group-title="Ecuador",TC TELEVISION
-http://bulltv.us:2999/live/darlin/darlin/362.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="Ecuador",TELEAMAZONAS
-http://bulltv.us:2999/live/darlin/darlin/363.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEVICENTRO" tvg-logo="https://i1.sndcdn.com/avatars-000190433008-gct8gy-t500x500.jpg" group-title="Ecuador",TELEVICENTRO
-http://bulltv.us:2999/live/darlin/darlin/364.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png" group-title="Ecuador",TNT Series
-http://bulltv.us:2999/live/darlin/darlin/365.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png" group-title="Entretenimiento",WARNER
-http://bulltv.us:2999/live/darlin/darlin/366.ts
-#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png" group-title="Entretenimiento",TruTV
-http://bulltv.us:2999/live/darlin/darlin/367.ts
-#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="Entretenimiento",Unicable
-http://bulltv.us:2999/live/darlin/darlin/368.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="http://bulltv.us/logoscanales/unimas.jpeg" group-title="Latinos | USA",UNIMAS
-http://bulltv.us:2999/live/darlin/darlin/369.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento",TLnovelas
-http://bulltv.us:2999/live/darlin/darlin/370.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TLENOVELAS" tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/s1600/univision-tlnovelas-logo.jpg" group-title="Entretenimiento",UNIVISION TLENOVELAS
-http://bulltv.us:2999/live/darlin/darlin/371.ts
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="DEPORTES",TOROS TV
-http://bulltv.us:2999/live/darlin/darlin/372.ts
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES",REAL MADRID TV
-http://bulltv.us:2999/live/darlin/darlin/373.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TV" tvg-logo="https://pbs.twimg.com/profile_images/794399302655283200/KXnJBDp9_400x400.jpg" group-title="Entretenimiento",LIFE TV
-http://bulltv.us:2999/live/darlin/darlin/374.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEDIA TV" tvg-logo="https://1.bp.blogspot.com/-SFlZAcf3th0/WV6Q-DxyEKI/AAAAAAAABKo/qGPFOCl1vRYf73FGppwABMgG0dQXKmpdACLcBGAs/s320/iptvchile.png" group-title="Musica",MEDIA TV
-http://bulltv.us:2999/live/darlin/darlin/375.ts
-#EXTINF:-1 tvg-id="I661.63109.schedulesdirect.org" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png" group-title="NIÑOS",Tooncast
-http://bulltv.us:2999/live/darlin/darlin/376.ts
-#EXTINF:-1 tvg-id="" tvg-name="BABY FIRTS" tvg-logo="https://i.blogs.es/b808d8/baby_first_tv/450_1000.jpg" group-title="NIÑOS",BABY FIRTS
-http://bulltv.us:2999/live/darlin/darlin/377.ts
-#EXTINF:-1 tvg-id="I631.72294.schedulesdirect.org" tvg-name="NICK 2" tvg-logo="https://i.ytimg.com/vi/aQPZl3KsdPM/maxresdefault.jpg" group-title="NIÑOS",NICK 2
-http://bulltv.us:2999/live/darlin/darlin/378.ts
-#EXTINF:-1 tvg-id="nick.co" tvg-name="NICKELODEON" tvg-logo="https://www.plexcollectionposters.com/images/2019/03/11/Nickelodeonb34d161fdb16ee60.png" group-title="NIÑOS",NICKELODEON
-http://bulltv.us:2999/live/darlin/darlin/379.ts
-#EXTINF:-1 tvg-id="I824.56036.schedulesdirect.org" tvg-name="BABY TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="NIÑOS",BABY TV
-http://bulltv.us:2999/live/darlin/darlin/380.ts
-#EXTINF:-1 tvg-id="Boing.TV" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png" group-title="NIÑOS",BOING
-http://bulltv.us:2999/live/darlin/darlin/382.ts
-#EXTINF:-1 tvg-id="I406.77606.schedulesdirect.org" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://i.pinimg.com/280x280_RS/41/36/d5/4136d5ec5153a2985d1f4c5faba1190c.jpg" group-title="Latinos | USA",TELEMUNDO INTERNACIONAL
-http://bulltv.us:2999/live/darlin/darlin/567.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO CONECTICUT" tvg-logo="https://pbs.twimg.com/profile_images/951571561676406785/gDzlfzMk.jpg" group-title="Latinos | USA",TELEMUNDO CONECTICUT
-http://bulltv.us:2999/live/darlin/darlin/569.ts
-#EXTINF:-1 tvg-id="telemundo.us" tvg-name="TELEMUNDO" tvg-logo="https://www.zonabase.net/wp-content/uploads/2014/10/Telemundo-en-vivo-por-internet.jpg" group-title="Latinos | USA",TELEMUNDO
-http://bulltv.us:2999/live/darlin/darlin/570.ts
-#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="TELEMUNDO CHICAGO" tvg-logo="https://pbs.twimg.com/profile_images/771004560320163840/BZz9P2z__400x400.jpg" group-title="Latinos | USA",TELEMUNDO CHICAGO
-http://bulltv.us:2999/live/darlin/darlin/571.ts
-#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="TELEMUNDO LOS ANGELES" tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG_400x400.jpg" group-title="Latinos | USA",TELEMUNDO LOS ANGELES
-http://bulltv.us:2999/live/darlin/darlin/572.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO MIAMI" tvg-logo="http://bulltv.us/logoscanales/telemundomiami.jpeg" group-title="Latinos | USA",TELEMUNDO MIAMI
-http://bulltv.us:2999/live/darlin/darlin/573.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO TEXAS" tvg-logo="https://pbs.twimg.com/profile_images/1077959321202249728/uLaJ9dK6.jpg" group-title="Latinos | USA",TELEMUNDO TEXAS
-http://bulltv.us:2999/live/darlin/darlin/574.ts
-#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="TELEMUNDO SANANTONIO" tvg-logo="https://image.roku.com/developer_channels/prod/e8ec0475ca0b48be58b17bb713d415aa4c06b90a35de82ad18577aa76f4f5a3c.png" group-title="Latinos | USA",TELEMUNDO SANANTONIO
-http://bulltv.us:2999/live/darlin/darlin/579.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO NEWYORK" tvg-logo="https://shizukany.com/wp-content/uploads/2013/07/1249-1-telemundo-ny.jpg" group-title="Latinos | USA",TELEMUNDO NEWYORK
-http://bulltv.us:2999/live/darlin/darlin/580.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS PHILADELPHIA" tvg-logo="https://i.ytimg.com/vi/YwO_CekSiUk/hqdefault.jpg" group-title="Latinos | USA",UNIMAS PHILADELPHIA
-http://bulltv.us:2999/live/darlin/darlin/581.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS DALLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="Latinos | USA",UNIMAS DALLAS
-http://bulltv.us:2999/live/darlin/darlin/582.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS MIAMI" tvg-logo="https://demoyafoundation.com/wp-content/uploads/2018/10/Media-104.jpg" group-title="Latinos | USA",UNIMAS MIAMI
-http://bulltv.us:2999/live/darlin/darlin/583.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS NEW YORK" tvg-logo="https://colfilmny.com/wp-content/uploads/2018/02/UNIMAS.jpg" group-title="Latinos | USA",UNIMAS NEW YORK
-http://bulltv.us:2999/live/darlin/darlin/584.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIMAS LOS ANGELES" tvg-logo="https://imgx.fubo.tv/station_logos/kftr_m.png" group-title="Latinos | USA",UNIMAS LOS ANGELES
-http://bulltv.us:2999/live/darlin/darlin/585.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ALBUQUERQUE" tvg-logo="https://i.ytimg.com/vi/hsuJvVpC3M0/maxresdefault.jpg" group-title="Latinos | USA",GALAVISION ALBUQUERQUE
-http://bulltv.us:2999/live/darlin/darlin/586.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ATLANTA" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="Latinos | USA",GALAVISION ATLANTA
-http://bulltv.us:2999/live/darlin/darlin/587.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION AUSTIN" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="Latinos | USA",GALAVISION AUSTIN
-http://bulltv.us:2999/live/darlin/darlin/588.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION DALLAS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/galavision.png" group-title="Latinos | USA",GALAVISION DALLAS
-http://bulltv.us:2999/live/darlin/darlin/590.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION EAST" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION EAST
-http://bulltv.us:2999/live/darlin/darlin/591.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION FRESNO" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION FRESNO
-http://bulltv.us:2999/live/darlin/darlin/592.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION LA" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION LA
-http://bulltv.us:2999/live/darlin/darlin/594.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION MIAMI" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION MIAMI
-http://bulltv.us:2999/live/darlin/darlin/596.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION PHOENIX" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION PHOENIX
-http://bulltv.us:2999/live/darlin/darlin/599.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SACRAMENTO" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION SACRAMENTO
-http://bulltv.us:2999/live/darlin/darlin/601.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SALTLAKE" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION SALTLAKE
-http://bulltv.us:2999/live/darlin/darlin/602.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION SAN ANTONIO" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION SAN ANTONIO
-http://bulltv.us:2999/live/darlin/darlin/603.ts
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION WEST" tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="Latinos | USA",GALAVISION WEST
-http://bulltv.us:2999/live/darlin/darlin/605.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tele 11." tvg-logo="https://pbs.twimg.com/profile_images/1149708692088135681/VQyj0BOx_400x400.png" group-title="Latinos | USA",Tele 11.
-http://bulltv.us:2999/live/darlin/darlin/606.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION LOS ANGELES" tvg-logo="https://i.pinimg.com/originals/13/a1/6d/13a16d48430740eeaec277a995dd24c3.jpg" group-title="Latinos | USA",USA | UNIVISION LOS ANGELES
-http://bulltv.us:2999/live/darlin/darlin/607.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION MIAMI" tvg-logo="https://pbs.twimg.com/profile_images/1149839652079263745/IFmp-Z5r.jpg" group-title="Latinos | USA",USA | UNIVISION MIAMI
-http://bulltv.us:2999/live/darlin/darlin/608.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION NEWYORK" tvg-logo="https://st1.uvnimg.com/dims4/default/195d2f6/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff1%2F55%2F003e5aa0491dbaf03067ee6a83d8%2Fdesktop-univision-41-nueva-york-298x168.jpg" group-title="Latinos | USA",USA | UNIVISION NEWYORK
-http://bulltv.us:2999/live/darlin/darlin/609.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION DALLAS" tvg-logo="https://pbs.twimg.com/profile_images/1151612385926549505/21QH7TLZ_400x400.png" group-title="Latinos | USA",USA | UNIVISION DALLAS
-http://bulltv.us:2999/live/darlin/darlin/610.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION SAN FRANCISCO" tvg-logo="https://st1.uvnimg.com/73/44/0d4edea644ab9c2ff507bb182bda/univision-14-san-francisco.jpg" group-title="Latinos | USA",USA | UNIVISION SAN FRANCISCO
-http://bulltv.us:2999/live/darlin/darlin/611.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA | UNIVISION" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="Latinos | USA",USA | UNIVISION
-http://bulltv.us:2999/live/darlin/darlin/612.ts
+#EXTINF:-1,A&E SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173378
+#EXTINF:-1,A&E HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173379
+#EXTINF:-1,A&E FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173380
+#EXTINF:-1,A3CINE FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173391
+#EXTINF:-1,A3series HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173393
+#EXTINF:-1,AMC SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173385
+#EXTINF:-1,AMC HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173383
+#EXTINF:-1,AMC FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173382
+#EXTINF:-1,AXN SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173388
+#EXTINF:-1,AXN HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173387
+#EXTINF:-1,AXN FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173386
+#EXTINF:-1,Az Cinema HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173394
+#EXTINF:-1,Az Cinema HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173395
+#EXTINF:-1,Cine Latino
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173397
+#EXTINF:-1,Cine Latino
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173399
+#EXTINF:-1,Cinecanal SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173400
+#EXTINF:-1,Cinecanal HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173401
+#EXTINF:-1,Cinecanal FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173402
+#EXTINF:-1,Cinemax SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173404
+#EXTINF:-1,Cinemax HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173405
+#EXTINF:-1,Cinemax FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173407
+#EXTINF:-1,CLARO CINEMA
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/189916
+#EXTINF:-1,DE PELICULA HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173414
+#EXTINF:-1,DE PELICULA HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173413
+#EXTINF:-1,DE PELICULA PLUS HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173411
+#EXTINF:-1,DE PELICULA PLUS HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173412
+#EXTINF:-1,DHE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173416
+#EXTINF:-1,Europa Europa HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173420
+#EXTINF:-1,Europa Europa SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173418
+#EXTINF:-1,FILM & ARTS SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173422
+#EXTINF:-1,FILM & ARTS HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173421
+#EXTINF:-1,FX SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173426
+#EXTINF:-1,FX HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173425
+#EXTINF:-1,FX FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173423
+#EXTINF:-1,HBO POP FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173435
+#EXTINF:-1,HBO SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173440
+#EXTINF:-1,HBO FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173439
+#EXTINF:-1,HBO HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173438
+#EXTINF:-1,HBO 2 FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173441
+#EXTINF:-1,HBO 2 SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173444
+#EXTINF:-1,HBO 2 HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173442
+#EXTINF:-1,HBO Family SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173445
+#EXTINF:-1,HBO Family HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173446
+#EXTINF:-1,HBO Family FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173447
+#EXTINF:-1,HBO MUNDI HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/190792
+#EXTINF:-1,HBO MUNDI HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/190793
+#EXTINF:-1,HBO Plus SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173449
+#EXTINF:-1,HBO Plus FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173452
+#EXTINF:-1,HBO Plus HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173451
+#EXTINF:-1,HBO POP HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173437
+#EXTINF:-1,HBO Signature
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173456
+#EXTINF:-1,HBO Signature FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173454
+#EXTINF:-1,HBO Signature HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173455
+#EXTINF:-1,HBO XTREME SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181847
+#EXTINF:-1,HBO XTREME FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181846
+#EXTINF:-1,I-SAT
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173459
+#EXTINF:-1,MULTIPREMIER SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173462
+#EXTINF:-1,Paramount Channel HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173464
+#EXTINF:-1,Paramount Channel SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173463
+#EXTINF:-1,Sony HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173470
+#EXTINF:-1,Sony SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173469
+#EXTINF:-1,Space FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173473
+#EXTINF:-1,Space HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173472
+#EXTINF:-1,SPACE SD DUAL A.
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173471
+#EXTINF:-1,STAR Channel HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173482
+#EXTINF:-1,Star Channel FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173488
+#EXTINF:-1,STAR Channel SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173481
+#EXTINF:-1,Studio Universal SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173510
+#EXTINF:-1,Studio Universal HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173512
+#EXTINF:-1,Studio Universal HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173511
+#EXTINF:-1,SyFy FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173517
+#EXTINF:-1,SyFy HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173516
+#EXTINF:-1,SyFy SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173515
+#EXTINF:-1,TBS SD DUAL A.
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173519
+#EXTINF:-1,TBS SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173520
+#EXTINF:-1,TBS HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173521
+#EXTINF:-1,TCM SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173523
+#EXTINF:-1,TCM HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173524
+#EXTINF:-1,TCM SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173525
+#EXTINF:-1,TNT SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173529
+#EXTINF:-1,TNT HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173530
+#EXTINF:-1,TNT FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173532
+#EXTINF:-1,TNT Series SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173533
+#EXTINF:-1,TNT series HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173535
+#EXTINF:-1,TNT series FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173536
+#EXTINF:-1,Universal SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173538
+#EXTINF:-1,Universal FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173540
+#EXTINF:-1,Universal HD(E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173539
+#EXTINF:-1,Universal Cinema SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/184565
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/187075
+#EXTINF:-1,UNIVERSAL COMEDY
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/187073
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/187074
+#EXTINF:-1,Universal CRIME ESTE HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/184563
+#EXTINF:-1,Universal Crime O HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/184566
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/184287
+#EXTINF:-1,UNIVERSAL PREMIERE O
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/184288
+#EXTINF:-1,Universal Reality HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/184564
+#EXTINF:-1,Warner Channel SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173541
+#EXTINF:-1,Warner Channel HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173543
+#EXTINF:-1,Warner Channel HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173542
+#EXTINF:-1,Butaca TV
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181515
+#EXTINF:-1,Cinema Accion 1
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166909
+#EXTINF:-1,Cinema Animacion
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166907
+#EXTINF:-1,Cinema DC HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166917
+#EXTINF:-1,Cinema Lego Movies HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166926
+#EXTINF:-1,Cinema Marvel HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166929
+#EXTINF:-1,MY TIME PELÍCULAS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166937
+#EXTINF:-1,MY TIME PELÍCULAS 1
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/166936
+#EXTINF:-1,MyTime movie network Spain
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/168589
+#EXTINF:-1,MyTime movie network Mexico
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/168588
+#EXTINF:-1,Tu Cine 2
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/183688
+#EXTINF:-1,M. Clasicos
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/196873
+#EXTINF:-1,SONY COMEDIAS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/202878
+#EXTINF:-1,SONY NOVELAS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/202879
+#EXTINF:-1,Novelas 1
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206333
+#EXTINF:-1,Novelas 2
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206334
+#EXTINF:-1,Novelas 3
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206335
+#EXTINF:-1,Novelas 4
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206336
+#EXTINF:-1,Novelas 5
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206337
+#EXTINF:-1,Novelas 6
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206338
+#EXTINF:-1,Novelas 7
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206339
+#EXTINF:-1,Novelas 9
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206341
+#EXTINF:-1,Novelas 11
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206343
+#EXTINF:-1,Novelas 12
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206344
+#EXTINF:-1,Novelas 13
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206345
+#EXTINF:-1,Novelas 14
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206346
+#EXTINF:-1,Novelas 16
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206348
+#EXTINF:-1,Novelas 18
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206350
+#EXTINF:-1,Novelas 20
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206352
+#EXTINF:-1,Novelas 22
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206354
+#EXTINF:-1,Novelas 23
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206355
+#EXTINF:-1,Novelas 24
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206356
+#EXTINF:-1,Novelas 28
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206360
+#EXTINF:-1,Novelas 29
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206361
+#EXTINF:-1,Novelas 31
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206363
+#EXTINF:-1,Novelas 32
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206364
+#EXTINF:-1,Novelas 34
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206366
+#EXTINF:-1,Novelas 35
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206367
+#EXTINF:-1,Novelas 36
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206368
+#EXTINF:-1,Novelas 37
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206369
+#EXTINF:-1,Novelas 40
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206372
+#EXTINF:-1,Novelas 42
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206374
+#EXTINF:-1,Novelas 43
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206375
+#EXTINF:-1,Novelas 45
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206377
+#EXTINF:-1,Novelas 46
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/206378
+#EXTINF:-1,US: Starz Encore Espanol East
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/196034
+#EXTINF:-1,Horrorfy
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/212478
+#EXTINF:-1,BITME HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214670
+#EXTINF:-1,GOLDEN HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214672
+#EXTINF:-1,GOLDEN HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214674
+#EXTINF:-1,GOLDEN 1 HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214675
+#EXTINF:-1,GOLDEN 1 FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214676
+#EXTINF:-1,GOLDEN EDGE HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214681
+#EXTINF:-1,GOLDEN PLUS FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214684
+#EXTINF:-1,GOLDEN PLUS HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214687
+#EXTINF:-1,GOLDEN PREMIER FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/214690
+#EXTINF:-1,GOLDEN PREMIER HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/219507
+#EXTINF:-1,KANAL D DRAMA
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/222820
+#EXTINF:-1,PELIMEX
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224193
+#EXTINF:-1,FLOW CINE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224195
+#EXTINF:-1,CINEMA 1
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224197
+#EXTINF:-1,CINEMA 2
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224198
+#EXTINF:-1,CINEMA 3
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224199
+#EXTINF:-1,CINEMA 4
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224200
+#EXTINF:-1,CINEMA 5
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224201
+#EXTINF:-1,CINEMA 6
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224202
+#EXTINF:-1,CINEMA 7
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224203
+#EXTINF:-1,CINEMA 8
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224204
+#EXTINF:-1,CINEMA 9
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224205
+#EXTINF:-1,CINEMA 10
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224206
+#EXTINF:-1,CINEMA 11
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224207
+#EXTINF:-1,CINEMA 12
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224208
+#EXTINF:-1,CINEMA 13
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/224209
+#EXTINF:-1,DE PELICULA CLASICO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/273593
+#EXTINF:-1,US: MoreMAX East
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/274446
+#EXTINF:-1,Dreamworks
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/283118
+#EXTINF:-1,Animal Planet HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181521
+#EXTINF:-1,Animal Planet SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181520
+#EXTINF:-1,Canal De La Ciudad HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181525
+#EXTINF:-1,Canal Rural
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181526
+#EXTINF:-1,CGTN ESPAÑOL HD(E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181524
+#EXTINF:-1,Concert Channel
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181522
+#EXTINF:-1,Cultura 24 HD (E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181523
+#EXTINF:-1,Discovery Channel HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181527
+#EXTINF:-1,Discovery Channel SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181528
+#EXTINF:-1,Discovery Family HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181530
+#EXTINF:-1,Discovery Home & Health SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181533
+#EXTINF:-1,Discovery Home & Health HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181534
+#EXTINF:-1,Discovery ID SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181531
+#EXTINF:-1,Discovery ID HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181532
+#EXTINF:-1,Discovery Science HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181537
+#EXTINF:-1,Discovery Theater HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181538
+#EXTINF:-1,Discovery Turbo SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181539
+#EXTINF:-1,Discovery Turbo FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181540
+#EXTINF:-1,Discovery World SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181541
+#EXTINF:-1,Discovery World HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181542
+#EXTINF:-1,El Gourmet SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181544
+#EXTINF:-1,El Gourmet HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181543
+#EXTINF:-1,Food Network HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181547
+#EXTINF:-1,Food Network SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181546
+#EXTINF:-1,HGTV HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181549
+#EXTINF:-1,HGTV HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181548
+#EXTINF:-1,History 2 SD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181551
+#EXTINF:-1,History 2 HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181552
+#EXTINF:-1,History Channel SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181553
+#EXTINF:-1,History Channel HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181554
+#EXTINF:-1,LOVE NATURE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181555
+#EXTINF:-1,NatGeo Mundo HD(E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181564
+#EXTINF:-1,NatGeo Mundo HD(E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181563
+#EXTINF:-1,Nat Geo SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181561
+#EXTINF:-1,Nat Geo FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181562
+#EXTINF:-1,NASA MEDIA
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/202872
+#EXTINF:-1,Agrotendencia TV
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/282885
+#EXTINF:-1,Smithsonian Channel*
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/283949
+#EXTINF:-1,TasteMade ( En Espanol - Recetas Cocina)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/284906
+#EXTINF:-1,ANTENA 3 INTERNACIONAL HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181854
+#EXTINF:-1,Az Clic
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181855
+#EXTINF:-1,Comedy Central HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181857
+#EXTINF:-1,Comedy Central
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181856
+#EXTINF:-1,CGTN Español
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/33904
+#EXTINF:-1,E! Entertainment HD(E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181859
+#EXTINF:-1,E! Entertainment HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181858
+#EXTINF:-1,Distrito Comedia FHD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181861
+#EXTINF:-1,Distrito Comedia SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181860
+#EXTINF:-1,Fashion TV HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181874
+#EXTINF:-1,Glitz SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181863
+#EXTINF:-1,Glitz HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181862
+#EXTINF:-1,HOLA TV FHD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181865
+#EXTINF:-1,HOLA TV HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181864
+#EXTINF:-1,Lifetime HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181867
+#EXTINF:-1,Lifetime SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181866
+#EXTINF:-1,Mas Chic HD(D)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181869
+#EXTINF:-1,Mas Chic HD(D)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181868
+#EXTINF:-1,Trutv HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181872
+#EXTINF:-1,UNIVISION BOSTON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181967
+#EXTINF:-1,Tlnovelas HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181871
+#EXTINF:-1,TLC HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173526
+#EXTINF:-1,TLC SD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/173527
+#EXTINF:-1,Galavision MIAMI HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193051
+#EXTINF:-1,Galavision Dallas HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193054
+#EXTINF:-1,Galavision East HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193055
+#EXTINF:-1,Galavision Fresno HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193056
+#EXTINF:-1,Galavision Houston HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193057
+#EXTINF:-1,Galavision Los Angeles HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193058
+#EXTINF:-1,Galavision RALEIGH HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193060
+#EXTINF:-1,Galavision New York HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193061
+#EXTINF:-1,Galavision Phoenix HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193063
+#EXTINF:-1,Galavision Sacramento HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193064
+#EXTINF:-1,Galavision SALT LAKE HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193065
+#EXTINF:-1,Galavision San Antonio HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193066
+#EXTINF:-1,Galavision West HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193068
+#EXTINF:-1,GALAVISION ATLANTA HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/193069
+#EXTINF:-1,Telemundo Internacional HD(E)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/181870
+#EXTINF:-1,Rakuten Spotlight
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/202883
+#EXTINF:-1,GREEN VALLEY | UNIVISION KUVE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218009
+#EXTINF:-1,HANFORD | UNIVISION KFTV
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218010
+#EXTINF:-1,MODESTO | UNIVISION KUVS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218011
+#EXTINF:-1,SAN ANTONIO | UNIVISION KWEX
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218012
+#EXTINF:-1,KAKW-AUSTIN | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218013
+#EXTINF:-1,SAN FRANCISCO-OAK-SAN JOSE | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218014
+#EXTINF:-1,KTVW-PHOENIX (PRESCOTT) | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218015
+#EXTINF:-1,WLTV-MIAMI-FT. LAUDERDALE | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218016
+#EXTINF:-1,WQHS-CLEVELAND-AKRON CANTON | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218017
+#EXTINF:-1,WUVP-PHILADELPHIA PA | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218018
+#EXTINF:-1,WXTV-NEW YORK NY | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218019
+#EXTINF:-1,ATLANTA | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218020
+#EXTINF:-1,CHICAGO | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218021
+#EXTINF:-1,DALLAS | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218022
+#EXTINF:-1,HOUSTON | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218023
+#EXTINF:-1,LOS ANGELES | UNIVISION
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218024
+#EXTINF:-1,UNIVISION NETWORK
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218032
+#EXTINF:-1,TLNOVELAS HD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218033
+#EXTINF:-1,TELEMUNDO KHRR TUCSON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218190
+#EXTINF:-1,TELEMUNDO KNSO MERCED
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218191
+#EXTINF:-1,TELEMUNDO KRDO COLORADO SPRINGS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218193
+#EXTINF:-1,TELEMUNDO KUAN
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218194
+#EXTINF:-1,TELEMUNDO WWDT NAPLES
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218195
+#EXTINF:-1,TELEMUNDO KFDY LINCOLN
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218196
+#EXTINF:-1,TELEMUNDO WWSI MOUNT LAUREL
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218197
+#EXTINF:-1,TELEMUNDO KTDO LAS CRUCES
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218198
+#EXTINF:-1,TELEMUNDO KASA SANTA FE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218199
+#EXTINF:-1,TELEMUNDO KUTU TULSA
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218200
+#EXTINF:-1,TELEMUNDO KFBI MEDFORD
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218201
+#EXTINF:-1,TELEMUNDO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218202
+#EXTINF:-1,TELEMUNDO (KDEN-DT Â€“ DENVER
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218203
+#EXTINF:-1,TELEMUNDO (KGLA-NEW ORLEANS LA)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218204
+#EXTINF:-1,TELEMUNDO (KOHA-OMAHA NE)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218205
+#EXTINF:-1,TELEMUNDO (KSTS-DT Â€“ SAN FRANCISCO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218206
+#EXTINF:-1,TELEMUNDO (KTUZ-OKLAHOMA CITY OK)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218207
+#EXTINF:-1,TELEMUNDO (WRMD-CD TAMPA)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218208
+#EXTINF:-1,TELEMUNDO (WSCV-DT Â€“ MIAMI
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218209
+#EXTINF:-1,TELEMUNDO (WTMO-CD ORLANDO)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218210
+#EXTINF:-1,TELEMUNDO (WZDC-WASHINGTON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218211
+#EXTINF:-1,TELEMUNDO 39
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218212
+#EXTINF:-1,TELEMUNDO 52
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218213
+#EXTINF:-1,TELEMUNDO ATLANTA
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218214
+#EXTINF:-1,TELEMUNDO BOSTON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218215
+#EXTINF:-1,TELEMUNDO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218216
+#EXTINF:-1,TELEMUNDO CHICAGO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218217
+#EXTINF:-1,TELEMUNDO CONNECTICUT
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218218
+#EXTINF:-1,TELEMUNDO LAS VEGAS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218219
+#EXTINF:-1,TELEMUNDO NY
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218220
+#EXTINF:-1,TELEMUNDO PHOENIX
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218221
+#EXTINF:-1,TELEMUNDO SACRAMENTO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218222
+#EXTINF:-1,TELEMUNDO SALT LAKE CITY
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218223
+#EXTINF:-1,TELEMUNDO KTMD GALVESTON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218224
+#EXTINF:-1,TELEMUNDO KXTQ LUBBOCK
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218225
+#EXTINF:-1,TELEMUNDO KTLM RIO GRANDE CITY
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218226
+#EXTINF:-1,TELEMUNDO KVDA SAN ANTONIO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218227
+#EXTINF:-1,UNIMAS KFTU TUCSON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218253
+#EXTINF:-1,UNIMAS KTFF PORTERVILLE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218254
+#EXTINF:-1,UNIMAS KTFK STOCKTON
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218255
+#EXTINF:-1,UNIMAS KFTH ALVIN
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218256
+#EXTINF:-1,UNIMAS KNIC BLANCO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218257
+#EXTINF:-1,UNIMAS (KFSF-SAN FRANCISCO-OAK-SAN JOSE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218258
+#EXTINF:-1,UNIMAS (WFPA-PHILADELPHIA PA)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218259
+#EXTINF:-1,UNIMAS (WXFT-CHICAGO
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218260
+#EXTINF:-1,UNIMAS
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218261
+#EXTINF:-1,UNIMAS (KFPH-PHOENIX (PRESCOTT) AZ)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218262
+#EXTINF:-1,UNIMAS (KFTR-LOS ANGELES CA)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218263
+#EXTINF:-1,UNIMAS (KSTR-DALLAS-FT WORTH TX)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218264
+#EXTINF:-1,UNIMAS (KTFO-AUSTIN TX)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218265
+#EXTINF:-1,UNIMAS (WAMI-MIAMI-FT. LAUDERDALE
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218266
+#EXTINF:-1,UNIMAS (WFUT-NEW YORK NY)
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/218267
+#EXTINF:-1,UBEAT HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/219461
+#EXTINF:-1,STAR TVE HD,
+http://dnsvod.com:8080/RE4h3r3Dcp/217yGz2avC/219509
